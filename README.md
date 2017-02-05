@@ -35,6 +35,11 @@ https://wiki.xenproject.org/wiki/Main_Page
 http://www.linux-kvm.org/page/Main_Page
 ## Xvisor
 http://xhypervisor.org/index.php?page=development
+## PROSPER
+http://prosper.sics.se/index.html
+## SICS
+### Secure Virtualization for Embedded Systems
+https://www.sics.se/projects/secure-virtualization-for-embedded-systems#description
 
 
 
