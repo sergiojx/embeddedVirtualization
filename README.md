@@ -29,5 +29,10 @@ http://www.xtratum.org/
 ### On the Performance of ARM Virtualization
 By Christoffer Dall   Posted June 16, 2016   In Core Dump
 https://www.linaro.org/blog/core-dump/on-the-performance-of-arm-virtualization/
+## Xen
+https://wiki.xenproject.org/wiki/Main_Page
+## KVM
+http://www.linux-kvm.org/page/Main_Page
+
 
 
