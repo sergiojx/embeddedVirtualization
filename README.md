@@ -25,5 +25,9 @@ http://www.ovpworld.org/
 ## XtratuM
 ### XtratuM is a hypervisor specially designed for real-time embedded systems.
 http://www.xtratum.org/
+## Linaro
+### On the Performance of ARM Virtualization
+By Christoffer Dall   Posted June 16, 2016   In Core Dump
+https://www.linaro.org/blog/core-dump/on-the-performance-of-arm-virtualization/
 
 
