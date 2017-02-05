@@ -2,9 +2,6 @@ Embedded Virtualization
 ===================
 
 
-* auto-gen TOC:
-{:toc}
-
 
 # Useful Links
 
