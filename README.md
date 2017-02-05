@@ -2,6 +2,10 @@ Embedded Virtualization
 ===================
 
 
+* auto-gen TOC:
+{:toc}
+
+
 # Useful Links
 
 ## GNODE
@@ -40,6 +44,10 @@ http://prosper.sics.se/index.html
 ## SICS
 ### Secure Virtualization for Embedded Systems
 https://www.sics.se/projects/secure-virtualization-for-embedded-systems#description
+
+
+
+
 
 
 
