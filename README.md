@@ -33,6 +33,8 @@ https://www.linaro.org/blog/core-dump/on-the-performance-of-arm-virtualization/
 https://wiki.xenproject.org/wiki/Main_Page
 ## KVM
 http://www.linux-kvm.org/page/Main_Page
+## Xvisor
+http://xhypervisor.org/index.php?page=development
 
 
 
