@@ -41,6 +41,8 @@ http://prosper.sics.se/index.html
 ## SICS
 ### Secure Virtualization for Embedded Systems
 https://www.sics.se/projects/secure-virtualization-for-embedded-systems#description
+## K-hypervisor
+http://kesl.github.io/khypervisor/
 
 
 
