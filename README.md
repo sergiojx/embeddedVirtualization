@@ -45,8 +45,8 @@ https://www.sics.se/projects/secure-virtualization-for-embedded-systems#descript
 http://kesl.github.io/khypervisor/
 
 ## Jailhouse
-https://github.com/siemens/jailhouse
-http://processors.wiki.ti.com/index.php/Processor_SDK_Jailhouse_Hypervisor
+* https://github.com/siemens/jailhouse
+* http://processors.wiki.ti.com/index.php/Processor_SDK_Jailhouse_Hypervisor
 
 
 
