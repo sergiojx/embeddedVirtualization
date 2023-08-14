@@ -52,3 +52,7 @@ http://kesl.github.io/khypervisor/
 
 ## https://ashw.io/
 Step-by-step tutorial series outlining how to develop a bare metal hypervisor for 64-bit Arm systems.
+
+## Hypervisors solve all your software partitioning issues. Do they really?
+#### https://www.embedded.com/ August 11, 2023
+https://www.embedded.com/hypervisors-solve-all-your-software-partitioning-issues-do-they-really/
